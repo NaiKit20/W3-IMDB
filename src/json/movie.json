@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Invincible",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2Q1NWExNzEtM2M1Ny00ZDJhLWIwN2MtZGI5ZGI4MzBlYTQyXkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+        "trailer": "k5OY-vXYzeE",
+        "details": "An adult animated series based on the Skybound/Image comic about a teenager whose father is the most powerful superhero on the planet.",
+        "actor": "1"
+    },
+    {
+        "id": "2",
+        "name": "The Boys",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGUyNzM0M2EtMjA1Zi00MWJhLWI2ZWEtNzE3OTgyMTBkN2IzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+        "trailer": "F9U-yoJbgWs",
+        "details": "From the world of The Boys comes Gen V, which explores the first generation of superheroes to know that their super powers are from Compound V. These heroes put their physical and moral boundaries to the test competing for the school's top ranking.",
+        "actor": "2"
+    },
+    {
+        "id": "3",
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTZmMmY2MzctMjU2Yy00YjJlLTk1NjAtY2U4MmMxOWZkZWY4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX190_CR0,6,190,281_.jpg",
+        "trailer": "NxW_X4kzeus",
+        "details": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+        "actor": "3"
+    },
+    {
+        "id": "4",
+        "name": "Oppenheimer",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "trailer": "uYPbbksJxIg",
+        "details": "The story of American scientist, J. Robert Oppenheimer, and his role in the development of the atomic bomb.",
+        "actor": "4"
+    },
+    {
+        "id": "5",
+        "name": "Barbie",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "trailer": "GRyt3Ov4zz0",
+        "details": "Barbie suffers a crisis that leads her to question her world and her existence.",
+        "actor": "5"
+    },
+    {
+        "id": "6",
+        "name": "John Wick: Chapter 4",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjNmZiMTEwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "trailer": "qEVUtrk8_B4",
+        "details": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "actor": "6"
+    }
+]

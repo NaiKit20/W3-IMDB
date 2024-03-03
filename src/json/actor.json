@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Hailee Steinfeld",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGFmZDVhZDUtZWIyNC00NzBjLTg0ZGEtY2FhMjJlZWJhZjBlXkEyXkFqcGdeQXVyMTcwNzE4OTI@._V1_QL75_UY207_CR34,0,140,207_.jpg",
+        "trailer": "1uRb0f7VuA0",
+        "details": "Hailee Steinfeld was born on December 11, 1996 in Tarzana, California, to Cheri (Domasin), an interior designer, and Peter Steinfeld, a personal fitness trainer. She has a brother, Griffin. Her uncle is Jake Steinfeld, a fitness trainer, and her great-uncle is actor Larry Domasin. Her father is of Ashkenazi Jewish descent and her mother's ancestry is Filipino, African-American, British Isles, and German. Hailee was raised in Thousand Oaks, California.",
+        "age": "27"
+    },
+    {
+        "id": "2",
+        "name": "Rita Moreno",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkyMzI4ODExM15BMl5BanBnXkFtZTcwNjkzNDEzNw@@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+        "trailer": "YhSKk-cvblc",
+        "details": "Rita Moreno is one of the very few performers to win an Oscar, an Emmy, a Tony and a Grammy, thus becoming an EGOT. She was born Rosita Dolores Alverío in the hospital in Humacao, Puerto Rico on December 11, 1931 (but raised in nearby, smaller Juncos, which had no hospital), to seamstress Rosa María (Marcano) and farmer Francisco José Paco Alverío. Her mother moved to New York City in 1937, taking Rita with her while leaving her reportedly unfaithful husband and Rita's younger brother behind. Rita's professional career began before she reached adolescence.",
+        "age": "92"
+    },
+    {
+        "id": "3",
+        "name": "Donna Mills",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE3NWY3Y2UtMzRjOC00ODJiLTk5MGQtZGE2NGRhODUzMGYxXkEyXkFqcGdeQXVyMTQyMzQwNzk1._V1_QL75_UY207_CR7,0,140,207_.jpg",
+        "trailer": "i_pW9eywSYk",
+        "details": "Blonde, buoyant Donna Mills began acting in local amateur and professional productions in her home town of Chicago. Donna made her Broadway bow as a harem girl in Woody Allen's play Don't Drink the Water, then played recurring roles on the Manhattan-based TV soap operas The Secret Storm (1954) and Love Is a Many Splendored Thing (1967). Her first film was The Incident (1967), a hard-hitting drama which co-starred fellow up-and-comers Martin Sheen and Beau Bridges. After playing Clint Eastwood's imperiled girlfriend in the cult thriller Play Misty for Me (1971), Mills guest-starred on numerous top-rated series and carved a niche for herself in made-for-TV movies, usually typecast as a damsel in distress. On the big screen, she scored another coup when she acted with Don Stroud in Murph the Surf (1975). Donna forever altered her on-screen image from trembling helplessness to calculating truculence in the role of Abby Cunningham Ewing, second wife of Dallas (1978) black sheep Gary Ewing (Ted Shackelford), in the nighttime serial Knots Landing (1979)",
+        "age": "83"
+    },
+    {
+        "id": "4",
+        "name": "Courtney Henggeler",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzk2YzdhMDgtYmEzYS00Yjg1LWJmZjEtNDEzNWI4NjFhN2RkXkEyXkFqcGdeQXVyMTkyNzUwMzk@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "trailer": "OTl3NHfG03o",
+        "details": "Courtney Henggeler is an actress, model and singer. As a child she was definitely theatrical. She took acting lessons in LA. Her first audition was for her high school's production of 'Carousel' when she was in 9th grade. She pretended to eat an apple while singing about clams. Her debut was as Susan Beth in the film The Bog Creatures (2003). Though her television debut was in House (2004) (2005), she was popular as Missy Cooper in CBS sitcom The Big Bang Theory (2007) in 2008.",
+        "age": "45"
+    },
+    {
+        "id": "5",
+        "name": "Gabriel Basso",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDgyMzcwYzAtN2JiNy00NjYzLWExMzgtN2Q4NmM4MDBlYWYyXkEyXkFqcGdeQXVyMTI2Nzk3NzI4._V1_QL75_UY207_CR20,0,140,207_.jpg",
+        "trailer": "YDbnY9Obsfs",
+        "details": "Gabriel Basso was born on December 11, 1994 in St Louis, Missouri, USA. He is an actor, known for Super 8 (2011), The Kings of Summer (2013) and American Wrestler: The Wizard (2016).",
+        "age": "29"
+    },
+    {
+        "id": "6",
+        "name": "Xosha Roquemore",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ1OTg2NzU5M15BMl5BanBnXkFtZTcwOTkyODAyOA@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "trailer": "y_pGlQuTVyY",
+        "details": "Xosha Roquemore was born on 11 December 1984 in Los Angeles, California, USA. She is an actress and writer, known for Precious (2009), G.B.F. (2013) and The Disaster Artist (2017).",
+        "age": "39"
+    }
+]
